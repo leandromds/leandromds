@@ -1,11 +1,9 @@
 ## Hi there :hand:!
 
 ### I'm [Leandro Silva](http://www.leandromsilva.com.br) a **Front-end Engineer** from São paulo, Brazil.
-<br>
 
-### Over the last 6 years, I have earned a lot of technical knowledge in Mobile and Web development.
-### In last year I have studied and learned about algorithms, data structures, systems Archtectures to help me to develop good solution  
-<br>
+Over the last 6 years, I have earned a lot of technical knowledge in Mobile and Web development.
+In last year I have studied and learned about algorithms, data structures, systems Archtectures to help me to develop good solution.  
 
 ## Techs I'm working with at the moment
 
