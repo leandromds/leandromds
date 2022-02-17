@@ -1,7 +1,5 @@
 ## Hi there :hand:!
 
-***
-
 ### I'm [Leandro Silva](http://www.leandromsilva.com.br) a **Front-end Engineer** from São paulo, Brazil.
 <br>
 
@@ -11,8 +9,6 @@
 
 ## Techs I'm working with at the moment
 
-***
-
 - React.js
 - Node.js
 - Typescript
@@ -20,7 +16,6 @@
 - Git
 - Github
 
- ***
 ### contact me: <leandro.mds.21@gmail.com>
 
 
