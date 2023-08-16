@@ -7,8 +7,14 @@ In last year I have studied and learned about algorithms, data structures, syste
 
 ## Techs I'm working with at the moment
 
+- HTML
+- CSS
+- Javascript
 - React.js
+- React-Native
+- NextJs
 - Node.js
+- Express
 - Typescript
 - MongoDB
 - Git
