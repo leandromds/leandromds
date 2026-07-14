@@ -1,39 +1,27 @@
-## Hi there :hand:!
+# Leandro Silva
 
-### I'm [Leandro Silva](http://www.leandromsilva.com.br) a **Front-end Engineer** from São Paulo, Brazil.
+**Engenheiro Front-End Sênior · React · TypeScript · Next.js**
 
-Over the last 6 years, I have earned a lot of technical knowledge in Mobile and Web development.
-In last year I have studied and learned about algorithms, data structures, systems Archtectures to help me to develop good software solutions.  
+`// São Paulo, Brasil · desde 2015`
 
-## Techs I'm working with at the moment
+Há 10 anos construo e evoluo interfaces de SaaS, ERPs e produtos digitais — de hotsites de grandes marcas em agência a plataforma de videochamadas para atendimento de pessoas surdas. Como IC sênior, assumo o front-end como dono técnico: arquitetura, performance (Core Web Vitals) e acessibilidade.
 
-- HTML
-- CSS
-- Javascript
-- React.js
-- React-Native
-- NextJs
-- Node.js
-- Express
-- Typescript
-- MongoDB
-- Git
-- Github
+Também construo produtos próprios praticando **engenharia assistida por IA com disciplina de sênior**: especificação em ADRs, 650+ testes automatizados e revisão criteriosa de tudo que entra.
 
-### contact me: <leandro.mds.21@gmail.com>
+## No momento
 
+- **Corelix** — SaaS de agendamento via WhatsApp para profissionais de saúde autônomos. Front-end React/TypeScript autoral; back-end FastAPI/PostgreSQL implementado sob minha especificação e revisão. → [Case study de arquitetura](https://github.com/leandromds/corelix-case-study)
+- **Site Express** — kit produtizado de landing pages WhatsApp-first para PMEs brasileiras: Astro 5 + Tailwind CSS v4 + TypeScript, seções componíveis e custo operacional zero.
+- **agendou** — projeto-vitrine público com Next.js App Router, Server Components, TanStack Query, Vitest e Playwright. `// em construção — repo no ar em breve`
 
-<!--
-**leandromds/leandromds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack do dia a dia
 
-Here are some ideas to get you started:
+`TypeScript` · `React` · `Next.js` · `Vite` · `Astro` · `Tailwind CSS` · `Jest` · `React Testing Library` · `GitHub Actions`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`// no fluxo de engenharia:` **Claude Code** — desenvolvimento spec-driven com ADRs e revisão criteriosa.
+
+## Contato
+
+**Aberto a posições sênior de front-end (CLT/PJ) e a projetos selecionados.**
+
+[leandromsilva.dev.br](https://www.leandromsilva.dev.br) · [LinkedIn](https://www.linkedin.com/in/leandromds) · contato@leandromsilva.dev.br
