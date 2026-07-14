@@ -11,7 +11,7 @@ Também construo produtos próprios praticando **engenharia assistida por IA com
 ## No momento
 
 - **Corelix** — SaaS de agendamento via WhatsApp para profissionais de saúde autônomos. Front-end React/TypeScript autoral; back-end FastAPI/PostgreSQL implementado sob minha especificação e revisão. → [Case study de arquitetura](https://github.com/leandromds/corelix-case-study)
-- **Site Express** — kit produtizado de landing pages WhatsApp-first para PMEs brasileiras: Astro 5 + Tailwind CSS v4 + TypeScript, seções componíveis e custo operacional zero.
+- **Site Express** — kit produtizado de landing pages WhatsApp-first para PMEs brasileiras: Astro 5 + Tailwind CSS v4 + TypeScript, seções componíveis e custo operacional zero. → [Case study de arquitetura](https://github.com/leandromds/site-express-case-study)
 - **agendou** — projeto-vitrine público com Next.js App Router, Server Components, TanStack Query, Vitest e Playwright. `// em construção — repo no ar em breve`
 
 ## Stack do dia a dia
